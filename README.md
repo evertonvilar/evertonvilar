@@ -1,50 +1,31 @@
+![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=evertonvilar)
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Everton Vilar</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=evertonvilar&color=yellow" alt="Profile views" /> </p>
+# GitHub Readme Stats
 
-- Salesforce Developer 
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=evertonvilar&count_private=true&show_icons=true)](https://github.com/evertonvilar)
 
-- Ask me about **APEX, LWC, Aura, Flow, JavaScript, HTML, CSS, SQL, SOQL**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonvilar)](https://github.com/evertonvilar)
 
-- More at [evertonvilar.dev](https://www.linkedin.com/in/evertonvilar/)
+# My Qiita
 
-<!--
+[![Qiita Posts](https://qiita-badge.apiapi.app/s/takahito0508/posts.svg)](http://qiita.com/takahito0508)
+[![Qiita Contributions](https://qiita-badge.apiapi.app/s/takahito0508/contributions.svg)](http://qiita.com/takahito0508)
+[![Qiita Followers](https://qiita-badge.apiapi.app/s/takahito0508/followers.svg)](http://qiita.com/takahito0508)
+                
+# Github Profile Trophy
 
-<br><br>
-
-## 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-</p>
--->
-
-<br><br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=evertonvilar)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="https://trailblazer.me/id/evertonvilar" target="_blank">
-  <img src="https://img.shields.io/badge/-Trailhead-blue?style=flat&logo=salesforce&logoColor=white" alt="Trailhead">
-</a>
 <a href="https://www.linkedin.com/in/evertonvilar/" target="_blank">
-  <img src="https://img.shields.io/badge/-Everton Vilar-blue?style=flat&logo=linkedin&logoColor=white" alt="Everton Vilar">
+  <img align="center" src="https://img.shields.io/badge/-evertonvilar-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://trailblazer.me/id/evertonvilar" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-evertonvilar-05122A?style=flat&logo=salesforce" alt="trailblazer"/>
+</a>
+<a href="mailto:evertonreinaldovilar@gmail.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-evertonreinaldovilar%40gmail.com-05122A?style=flat&logo=gmail" alt="email"/>
 </a>
 </p>
