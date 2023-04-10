@@ -1,22 +1,22 @@
 ![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=evertonvilar)
 
-# GitHub Readme Stats
+# Main skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117)
+![Apex](https://img.shields.io/badge/-Apex-0D1117?style=for-the-badge&logo=apex&logoColor=white&labelColor=0D1117)
+
+# Stats
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=evertonvilar&count_private=true&show_icons=true)](https://github.com/evertonvilar)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonvilar)](https://github.com/evertonvilar)
-
-# My Qiita
-
-[![Qiita Posts](https://qiita-badge.apiapi.app/s/takahito0508/posts.svg)](http://qiita.com/takahito0508)
-[![Qiita Contributions](https://qiita-badge.apiapi.app/s/takahito0508/contributions.svg)](http://qiita.com/takahito0508)
-[![Qiita Followers](https://qiita-badge.apiapi.app/s/takahito0508/followers.svg)](http://qiita.com/takahito0508)
                 
-# Github Profile Trophy
+# Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=evertonvilar)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Contact
+# Contact
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/evertonvilar/" target="_blank">
